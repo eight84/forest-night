@@ -1,4 +1,4 @@
-# Forest Night Theme
+# Forest Night Graphite Theme
 
 A beautiful dark theme for Visual Studio Code inspired by the tranquility of forest nights.
 
@@ -6,9 +6,7 @@ A beautiful dark theme for Visual Studio Code inspired by the tranquility of for
 
 The Forest Night theme provides a consistent and beautiful experience across different programming languages:
 
-### TypeScript
-
-![TypeScript Preview](./img/typescript.png)
+(./img/icon.png)
 
 ### JavaScript
 
