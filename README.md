@@ -4,7 +4,31 @@ A beautiful dark theme for Visual Studio Code inspired by the tranquility of for
 
 ## Preview
 
-![Forest Night Theme Preview](./img/typescript.png)
+The Forest Night theme provides a consistent and beautiful experience across different programming languages:
+
+### TypeScript
+
+![TypeScript Preview](./img/typescript.png)
+
+### JavaScript
+
+![JavaScript Preview](./img/js.png)
+
+### TSX/React
+
+![TSX Preview](./img/tsx.png)
+
+### Python
+
+![Python Preview](./img/python.png)
+
+### HTML
+
+![HTML Preview](./img/html.png)
+
+### CSS
+
+![CSS Preview](./img/css.png)
 
 ## Installation
 
