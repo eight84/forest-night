@@ -1,0 +1,2 @@
+- [x] Project scaffolded for VS Code theme extension
+- [ ] Customize the theme and documentation as needed
