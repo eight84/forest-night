@@ -2,7 +2,7 @@
   "name": "forest-night-color-theme",
   "displayName": "Forest Night Graphite",
   "description": "Forest night color theme.",
-  "version": "1.4.2",
+  "version": "1.5.2",
   "publisher": "eight84",
   "engines": {
     "vscode": "^1.50.0"
